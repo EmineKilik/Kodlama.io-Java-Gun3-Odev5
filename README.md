@@ -1,5 +1,7 @@
 Java Kampının 3. gününde verilen 5. ödev; eğitimin izlenip uygulanması.
+
 Eğitimde anlatılan konular : 
+
 select
 
 where
